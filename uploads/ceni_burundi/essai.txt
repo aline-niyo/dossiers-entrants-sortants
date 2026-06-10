@@ -1,0 +1,61 @@
+Ça doit faire combien de pages un livre ? Quelle taille pour un roman ? Combien de signes ? Quelle taille de police ? Combien de pages de livre dans une page Word A4 ? Combien de mots pour un roman adulte ? Et un roman enfant ?
+
+Vous voulez savoir combien il vous faut de pages pour dire que vous avez écrit un roman ? Vous êtes au bon endroit !
+
+Ça fait combien ?
+Si vous êtes comme moi, vous aimez vous fixer des objectifs comme « écrire 1 page Word par jour » ou « écrire 5 000 mots par semaine », sauf que comme (presque) tout le monde, vous vous demandez en terme romanesque, « ça fait combien » ? C’est vrai ça, on écrit, on écrit, mais on aime bien aussi se représenter le résultat.
+
+Beaucoup vous diront, « c’est pas la taille qui compte », c’est vrai, mais je le nuancerais. Certains concours vous obligent à avoir un nombre minimum et/ou maximum de signes, alors vous vous rendrez vie compte que la taille compte un peu.
+
+La question existentielle de la taille
+Si je me suis posé la question de la longueur de mon roman dernièrement, c’est que lorsque j’ai voulu soumettre mon premier ouvrage à des concours, je me suis heurtée à un point du règlement : « 350 000 signes minimum ». Mon roman faisait 347 000 signes espaces comprises, je pouvais donc aisément rajouter 3 000 signes pour concourir, mais mieux vaut en être conscient avant. Non pas que quand vous allez écrire vous devez penser à tartiner pour être sûr de rentrer dans les clous, mais au moment de mon inscription je ne pensais pas retravailler mon roman, car je l’avais déjà fait maintes fois.
+
+J’ai aussi découvert des sites comme Nouvelles Plumes qui soumettent votre ouvrage à un comité de lecture si vous passez la première sélection. Eux l’affichent clairement, pas de manuscrit considéré en dessous de 400 000 signes espaces comprises. Certains de leurs concours en Fantasy requièrent même 450 000 signes minimum.
+
+Ce même site vous apporte une conversion. Divisez le nombre de signes par 1 500 pour obtenir le nombre de pages de votre futur roman. Ainsi si vous rentrez dans les exigences minimums de 400 000 signes, votre livre physique fera 266 pages.
+
+Calculatrice
+Pour que ce soit plus simple pour vos calculs, je vous propose ce petit convertisseur. Vous devez y entrer votre nombre de signes (espaces incluses) donné par votre logiciel de traitement de texte, et vous obtenez le nombre de pages pour un livre au format A5 !
+
+Je l’ai fait pour ceux qui ont la flemme de sortir la calculatrice et de diviser le nombre de signes par 1500, et aussi pour le plaisir d’ajouter ce petit outil à cette page. Donc si vous souhaitez savoir combien de signes font combien de pages, si on peut dire ça comme ça, vous n’avez qu’à entrer votre nombre de signes et le nombre de pages est calculé automatiquement !
+
+Nombre de signes espaces comprises
+Nombre de pages
+0
+Mon expérience
+Mon premier roman faisait 347 000 signes espaces comprises soit, dans mon cas, près de 59 000 mots.
+
+Cela représente :
+
+112 pages Word format A4
+écrit en Times New Roman
+police 12
+interlignes 1.15
+et des marges de 2,5 partout.
+Cela représente également :
+
+230 pages en format A5 (livre « grand format »)
+écrit en Times New Roman toujours
+police 12 interlignes
+1,15
+et des marges de 2 cm partout.
+Si j’applique la conversion de Nouvelles Plumes, mes 347 000 signes divisés par 1 500 font 231 pages. Comme écrit plus haut, j’en ai effectivement 230, cette division est donc plutôt très fiable !
+
+Pourquoi a-t-on ce besoin de compter ?
+Vous serez confronté à des gens qui ne comprennent pas pourquoi vous avez besoin à tout prix de savoir « combien ça fait » en pages pour pouvoir écrire. Ces mêmes gens vous diront « écris et tu verras » ou encore « si t’as plus rien à dire, ça sert à rien de faire traîner » et qui finalement vous assèneront également « 100 pages ? C’est bien trop court pour un roman », « quoi, 200 000 signes ? C’est une nouvelle ton truc ». Bref, on veut tous le cacher, mais on aime tous compter.
+
+Je vous l’ai dit, pour moi cela m’aide à objectiver mon écriture. Quand je fais mon plan, je détaille mon intrigue principale et les secondaires puis je déroule l’histoire sous forme de chapitres sans numéros. Je peux ainsi aller insérer telle ou telle information que le personnage est censé avoir à tel ou tel chapitre si j’ai oublié de la mentionner plus tôt. Je vérifie ensuite que le poids de mes chapitres est à peu près équivalent et je me demande, grosso modo, quelle longueur ils feront (2 pages Word ? 3 ? 4 ?).
+
+Ce n’est ainsi pas gravé dans le marbre, mais cela me permet, à la fin du chapitrage, de savoir tout de suite si je serai plus près des 100 000 ou des 500 000 signes. Si le nombre de signes prévu me convient, je commence à écrire, s’il est vraiment trop faible, je pense dès maintenant à venir étoffer mon contenu avec un rebondissement, une intrigue supplémentaire ou tout autre ajout qui viendra servir mon histoire et ma longueur de texte.
+
+Il paraît
+Il paraît que les livres courts se vendent mieux. Je ne suis pas experte donc je ne peux pas vous le confirmer ou l’infirmer, mais je trouve plus simple de retirer des morceaux d’histoire (une description trop longue, un moment où vous avez décrit alors que vous auriez pu faire une ellipse temporelle, etc.) que de rajouter après coup à votre histoire que vous avez bien ficelée. Il est cependant vrai que ça ne sert à rien d’écrire pour faire durer et je pense que lorsque l’on parle de livres courts, on veut surtout éviter les livres où il ne se passe rien. Si vous écrivez 500 000 signes d’une histoire passionnante à un rythme soutenu, je vois mal une maison d’édition vous pénaliser.
+
+La longueur attendue d’un roman dépend du genre. En Fantasy ou Science Fiction, vous pouvez vous permettre des romans très longs, en plusieurs tomes.
+
+Conclusion
+Au boulot ! Maintenant que vous savez à quoi vous en tenir, fixez-vous des objectifs et écrivez !
+
+Et pour les accros aux statistiques comme moi, il existe de nombreux outils sur lesquels vous pouvez écrire en suivant votre progression. C’est le cas de Talers et son récap motivant que vous pouvez visualiser sur la semaine, le mois, l’année, etc. Vous y trouverez le nombre de caractères écrits et votre moyenne par jour. Vous pouvez aussi vous tourner vers NaNoWriMo qui vous permet de vous fixer un objectif d’écriture et d’en assurer le suivi. Bref, rien ne vous empêche de suivre vos statistiques pour vous motiver.
+
+Ne perdez jamais votre objectif de vu. Si celui-ci est d’écrire un livre et d’être publié, mettez toutes les chances de voter côté.

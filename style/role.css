@@ -1,0 +1,77 @@
+fieldset {
+    display: block;
+    margin: 2em auto;
+    padding: 1.5em;
+    border: 2px solid #2c3e50;
+    border-radius: 8px;
+    width: 600px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+body{
+    background-color: rgb(5, 45, 45);
+}
+p,tr,div{
+    color: blue;
+    color: aqua;
+}
+.option{
+    color: blue;
+}
+/* Centrage des éléments */
+center {
+    display: block;
+    text-align: center;
+}
+
+/* Style des sélecteurs */
+select {
+    width: 300px;
+    padding: 8px;
+    margin: 10px 0;
+    border: 1px solid #3498db;
+    border-radius: 4px;
+    font-size: 1em;
+}
+
+/* Style des options */
+option {
+    padding: 8px;
+}
+
+/* Style du bouton */
+button[type="submit"] {
+    padding: 12px 24px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1.1em;
+    transition: background-color 0.3s;
+}
+
+button[type="submit"]:hover {
+    background-color: #2980b9;
+}
+
+/* Style des conteneurs */
+.dossier, .traiteur {
+    margin: 15px 0;
+    display: flex;
+    justify-content: center;
+}
+
+/* Correction des éléments tableaux */
+tr {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+}
+
+th {
+    width: 150px;
+    text-align: right;
+    padding-right: 20px;
+    font-weight: bold;
+}
